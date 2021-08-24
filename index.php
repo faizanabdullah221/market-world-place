@@ -1,1 +1,1 @@
-<?=echo 'lets discuss what to do in push'; ?>
+<?=echo 'lets go'; ?>
