@@ -1,1 +1,1 @@
-<?=echo 'i amm working on a systematic issues on git'; ?>
+<?=echo 'lets discuss what to do in push'; ?>
